@@ -1,0 +1,11 @@
+[package]
+name = "rust-zk-snark-verifier-engine"
+version = "1.0.0"
+edition = "2021"
+authors = ["Felipe Madison <felipemadson@users.noreply.github.com>"]
+description = "Industrial-grade Zero-Knowledge SNARK (Groth16) verification engine and R1CS circuit solver over BN254 elliptic curve pairings."
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
